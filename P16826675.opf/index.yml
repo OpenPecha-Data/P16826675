@@ -1,0 +1,83 @@
+id: 8814ac226eff4f86a02080f57a22f8e8
+annotation_type: index
+revision: '00001'
+annotations:
+  30ddcb4e97d4487999542c6fdf12ed8e:
+    work_id: W575B4DFF
+    span:
+      vol: 'Ariṣṭa: apratiniḥsṛṣṭe pāpake dṛṣṭigata utkṣepaṇīyaṃ karma'
+      start: 0
+      end: 3133
+  2dd61f30cea447a4a208b903b0233ae2:
+    work_id: W78875AAC
+    span:
+      vol: 'Aśvaka & Punarvasaka: pravāsanīyaṃ karma'
+      start: 0
+      end: 4184
+  9de835edc15b41498ca77095b6ac6358:
+    work_id: W9451C35A
+    span:
+      vol: 'Chanda: 1. āpatter adarśanāyotkṣepaṇīyaṃ karma, 2. āpatter apratikarmāyotkṣepaṇīyaṃ
+        karma'
+      start: 0
+      end: 2302
+  75c9a0eb685142ae9585896a82b640bd:
+    work_id: WF3B55BBB
+    span:
+      vol: Pratikriyāvastūddāna
+      start: 0
+      end: 160
+  021ee5c77f304d0faafd4269a60ca6a0:
+    work_id: W50C20CDD
+    span:
+      vol: 'Pāṇḍulohitaka: tarjanīyaṃ karma'
+      start: 0
+      end: 8214
+  f968f6809dad490684cbd8eb2de90779:
+    work_id: W9E7E348F
+    span:
+      vol: Pāṇḍulohitakavastūddāna
+      start: 0
+      end: 227
+  021d397eef6d4a91a7c650f1324ccf4d:
+    work_id: W88017A95
+    span:
+      vol: 'Udayin: mānāpya'
+      start: 0
+      end: 8926
+  3c0c30671ea64a769c14826234241457:
+    work_id: W89F5F6F8
+    span:
+      vol: 'Udayin: mūlaparivāsa'
+      start: 0
+      end: 4195
+  13a1fbd9f9064c7b9f6bc74b7188c547:
+    work_id: WB2F8334E
+    span:
+      vol: 'Udayin: mūlāpakaṛṣa'
+      start: 0
+      end: 5680
+  ecd8889ede8e4a8788b406ed85be401a:
+    work_id: WAC312CDF
+    span:
+      vol: 'Udayin: parivāsa'
+      start: 0
+      end: 2820
+  38ffdf3b3fb04f07a4711dfd406af7a2:
+    work_id: WCC612114
+    span:
+      vol: 'Udayin: āvarhaṇa'
+      start: 0
+      end: 15739
+  07a786cb2aee4dc2a64650258b92ebf5:
+    work_id: W0E19E9EE
+    span:
+      vol: 'Uttara: pratisaṃharanīyaṃ karma'
+      start: 0
+      end: 11096
+  848975da9a574dc6bf509c234f583a46:
+    work_id: W54EE7F57
+    span:
+      vol: 'Śreyaka: nigarhanīyaṃ karma'
+      start: 0
+      end: 5663

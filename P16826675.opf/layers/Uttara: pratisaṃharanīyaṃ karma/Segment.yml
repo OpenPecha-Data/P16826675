@@ -1,0 +1,99 @@
+id: c5744d39cf8c454e91496faa3379caa4
+annotation_type: Segment
+revision: '00001'
+annotations:
+  c165577a60884e3baad59cdda2917591:
+    span:
+      start: 0
+      end: 1342
+    metadata: {}
+  215959312e7a4f87b998d6857c73e82a:
+    span:
+      start: 1345
+      end: 2517
+    metadata: {}
+  f4d11bf52bcc4427b7f7097c2aa82bd4:
+    span:
+      start: 2520
+      end: 3848
+    metadata: {}
+  3ff864ae260d4e4a9acd13b9d3a4606c:
+    span:
+      start: 3851
+      end: 4648
+    metadata: {}
+  f97276807f04483790fbbaa2410f825d:
+    span:
+      start: 4651
+      end: 5477
+    metadata: {}
+  d57ad24791794934b76416f89e199897:
+    span:
+      start: 5480
+      end: 6333
+    metadata: {}
+  25de699cb66d4fc5a49fe75e0134cd3c:
+    span:
+      start: 6336
+      end: 6651
+    metadata: {}
+  45e1c14c1aa94a59890b80e6250a7af5:
+    span:
+      start: 6654
+      end: 6889
+    metadata: {}
+  48d79b24c42a40e4b4ad552a140ed4dc:
+    span:
+      start: 6892
+      end: 7453
+    metadata: {}
+  185581f0ba744dfdad445f8bc5a5db01:
+    span:
+      start: 7456
+      end: 7995
+    metadata: {}
+  03fc93cc9dc246cb8559e49722d5ac42:
+    span:
+      start: 7998
+      end: 8364
+    metadata: {}
+  ac26565c236d4bc4b81bb30e0e89e6e0:
+    span:
+      start: 8367
+      end: 8873
+    metadata: {}
+  bf2cad45f227423d927751dd5adacd87:
+    span:
+      start: 8876
+      end: 9299
+    metadata: {}
+  7afd6b712b0d475f813a25011a1b9ddd:
+    span:
+      start: 9302
+      end: 9623
+    metadata: {}
+  88d3a1bb3a87475cadffdca0796faaca:
+    span:
+      start: 9626
+      end: 10419
+    metadata: {}
+  e58eb33dd7a248cd94928800e3bac9a3:
+    span:
+      start: 10422
+      end: 10808
+    metadata: {}
+  3afb33739b184059b2cc65373dbd5102:
+    span:
+      start: 10811
+      end: 10903
+    metadata: {}
+  3650b291346c4036a8eb05c0101a97a6:
+    span:
+      start: 10906
+      end: 11000
+    metadata: {}
+  5839a360b6b34e0bb8f664215f591738:
+    span:
+      start: 11003
+      end: 11093
+    metadata: {}
